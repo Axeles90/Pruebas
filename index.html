@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina para probar</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <span class="desenfocado">
+        <h3>probando efecto BLUR</h3>
+        <p>Frase inspiradora para probar un poco el tema</p>
+    </span>
+</body>
+</html>
